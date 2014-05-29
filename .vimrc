@@ -73,7 +73,7 @@ set hlsearch
 set incsearch
 
 "
-" 常にバイナリモードで実行します。
+" 常にバイナリモードで実行します。たとえば ^M などが可視化されます。
 "
 set binary
 
