@@ -1,4 +1,4 @@
 vim
 ===
 
-tiny.
+私の .vimrc です。
