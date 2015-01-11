@@ -23,6 +23,11 @@ set backspace=indent,eol,start
 set laststatus=2
 
 "
+" 貼り付け時の自動インデント系を無効に
+"
+set paste
+
+"
 " ルーラーを表示します。
 "
 set ruler
@@ -105,9 +110,4 @@ highlight CursorLine cterm=underline ctermfg=NONE ctermbg=NONE
 " 不可視文字を表示する(通常は使用しない)
 "
 " set list
-
-"
-" 貼り付け時の自動インデント系を無効に
-"
-set paste
 
