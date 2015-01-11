@@ -24,11 +24,13 @@ set laststatus=2
 
 "
 " 貼り付け時の自動インデント系を無効に
+" ※この設定は ruler 表示を消してしまう 
 "
 set paste
 
 "
 " ルーラーを表示します。
+" ※ この設定は set paste によって消えてしまう
 "
 set ruler
 
