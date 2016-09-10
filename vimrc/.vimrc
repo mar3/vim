@@ -113,3 +113,11 @@ highlight CursorLine cterm=underline ctermfg=NONE ctermbg=NONE
 "
 " set list
 
+"
+" ファイルリストビュー(?)のときに移動先を維持
+"
+set autochdir
+
+
+
+
