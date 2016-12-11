@@ -115,8 +115,8 @@ highlight CursorLine cterm=underline ctermfg=NONE ctermbg=NONE
 
 "
 " ファイルリストビュー(?)のときに移動先を維持
-"
-set autochdir
+"   ※ダメな環境があるので無効にした
+" set autochdir
 
 
 
