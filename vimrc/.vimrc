@@ -37,12 +37,12 @@ set ruler
 "
 " よくわからない
 "
-" set term=builtin_linux
+set term=builtin_linux
 
 "
-" よくわからない
+" よくわからない → term の別名だということらしい
 "
-set ttytype=builtin_linux
+" set ttytype=builtin_linux
 
 "
 " 色の数を定義
