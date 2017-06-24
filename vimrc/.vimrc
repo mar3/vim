@@ -35,12 +35,13 @@ set paste
 set ruler
 
 "
-" よくわからない
+" ターミナルの名前。環境変数 TERM に従って自動的に設定されるようだ。
+" Git Bash on Windows では TERM=xterm になっており、こちらの term は特に明記しなくてよさそう。
 "
 set term=builtin_linux
 
 "
-" よくわからない → term の別名だということらしい
+" よくわからない → term の別名だということらしい。
 "
 " set ttytype=builtin_linux
 
